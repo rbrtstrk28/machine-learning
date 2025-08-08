@@ -51,4 +51,4 @@ The goal of this assignment is to build a model that can recognize handwritten d
 
 ## 🔗 Notebook Link
 
-[Click here to view the notebook](https://github.com/your-username/repo-name/blob/main/Assignment_1_Digit_Recognition.ipynb)
+[Click here to view the notebook](https://github.com/rbrtstrk28/machine-learning/blob/main/Assignment_1_Digit_recognition.ipynb)
