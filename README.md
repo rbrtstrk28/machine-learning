@@ -20,7 +20,7 @@ The goal of this assignment is to build a model that can recognize handwritten d
 
 - `Assignment_1_Digit_Recognition.ipynb` – The main notebook containing all code, explanations, and predictions.
 - `README.md` – You're reading it!
-- Sample test image (optional)
+- Sample test image 
 
 ---
 
